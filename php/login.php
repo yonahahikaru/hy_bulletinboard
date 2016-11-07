@@ -25,7 +25,7 @@
 			<form action="login2.php" method="POST">
 				<table border="0">
 					<tr>
-						<th>ユーザID</th>
+						<th>ユーザIDD</th>
 						<td><input type="text" name="user_id" value="<?php print $gu; ?>" size="24"></td>
 					</tr>
 					<tr>
